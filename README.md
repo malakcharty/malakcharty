@@ -13,7 +13,6 @@
 <p align="center">
   <a href="mailto:chartymalak1@gmail.com"><img src="https://img.shields.io/badge/Email-chartymalak1%40gmail.com-7e57c2?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/malakcharty/"><img src="https://img.shields.io/badge/LinkedIn-malakcharty-673ab7?logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=malakcharty&label=Profile%20views&color=9575cd&style=flat" />
 </p>
 ---
 
