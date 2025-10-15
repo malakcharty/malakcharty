@@ -1,71 +1,64 @@
-<h1 align="center">👋 Bonjour, je suis <a href="https://github.com/malakcharty">Malak Charty</a></h1>
-
+<!-- Banner -->
 <p align="center">
-🎓 Étudiante en 5ᵉ année Ingénierie Informatique et Réseaux – Option MIAGE à l’EMSI Casablanca  
-💡 Passionnée par le développement web, la RPA et la gestion de projets innovants
+  <img src="./banner.svg" alt="Malak Charty – Future Ingénieure MIAGE" width="100%" />
+</p>
+
+<!-- Title & subtitle -->
+<h1 align="center">Salut, moi c’est <span style="color:#7e57c2">Malak Charty</span> 👋</h1>
+<p align="center">
+  🎓 Future Ingénieure en Informatique & Réseaux (MIAGE) • 💡 Dev Full-Stack & Automatisation (RPA) • 📍 Casablanca
+</p>
+
+<!-- Social / contact -->
+<p align="center">
+  <a href="mailto:chartymalak1@gmail.com"><img src="https://img.shields.io/badge/Email-chartymalak1%40gmail.com-7e57c2?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/malakcharty/"><img src="https://img.shields.io/badge/LinkedIn-malakcharty-673ab7?logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=malakcharty&label=Profile%20views&color=9575cd&style=flat" />
+</p>
+---
+
+### 🧰 Compétences
+**Langages** : Python, Java, C#, C++, PHP, JavaScript, HTML/CSS  
+**Frameworks & Outils** : Spring Boot, Angular, React, Django, .NET, Flutter, Android Studio  
+**Bases de données** : MySQL, SQL Server, Oracle/PLSQL  
+**Dev & BI** : Git, Docker, Azure, Power BI
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
 </p>
 
 ---
 
-### 🧰 Compétences techniques
-
-**Langages**  
-Python · Java · C# · C++ · PHP · JavaScript · Dart · Kotlin · HTML/CSS  
-
-**Frameworks & Outils**  
-Spring Boot · Angular · React · Django · .NET · Flutter · Android Studio  
-
-**Bases de données**  
-MySQL · SQL Server · Oracle · PL/SQL  
-
-**DevOps & BI**  
-Git · Docker · Azure · Power BI  
-
-**Soft Skills**  
-Adaptabilité · Travail en équipe · Organisation · Esprit d’analyse  
+### 🚀 Projets à la une
+- **RPA – Automatisation fichiers internes (Python)**  
+  Selenium, Excel, Outlook, interface Tkinter, logs & planification → fiabilité et rapidité accrues.
+- **TPE-Connect (Spring Boot + React + MySQL)**  
+  Gestion des leads pour TPE : automatisation de la captation & suivi.
+- **Gestion d’événements (Spring Boot + Angular)**  
+  Création, gestion & inscriptions aux événements.
+- **E-Syndicat (Spring Boot + Thymeleaf + SQL)**  
+  Annonces, paiements & incidents pour résidents.
+- **Rendez-vous (.NET MVC)** et **SimpleNote (Django)**.
 
 ---
 
-### 🚀 Projets réalisés
-
-#### 🧾 **TPE-Connect**  
-Application web de gestion des leads pour TPE  
-> Spring Boot • React • MySQL  
-→ Automatisation de la captation et suivi des prospects  
-
-#### 🤖 **RPA – Wafacash**  
-Robot logiciel en Python  
-> Automatisation de la récupération et du traitement des fichiers internes  
-→ Interface Tkinter, Selenium, Excel, Outlook, logs automatiques  
-
-#### 🌐 **E-Syndicat**  
-Application web de gestion des annonces et paiements  
-> Spring Boot • Thymeleaf • SQL  
-
-#### 🏥 **Gestion des rendez-vous (.NET MVC)**  
-Plateforme de planification médicale avec notifications  
-
-#### 📝 **SimpleNote (Django)**  
-Application Python de gestion de notes  
-
----
-
-### 📜 Certifications
-- Introduction to Java & OOP – University of Pennsylvania  
-- Programming for Everybody (Python) – University of Michigan  
-- HTML, CSS, and JavaScript for Web Developers – Johns Hopkins University  
-- Introduction à la POO en C++ – École Polytechnique Fédérale de Lausanne  
-
----
-
-### 📈 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakcharty&layout=compact" height="160"/>
+### 📊 Statistiques
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=malakcharty&show_icons=true&hide_title=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakcharty&layout=compact&langs_count=8&theme=transparent" height="150" />
 </p>
 
 ---
 
-### 💬 Contact
-📧 **chartymalak1@gmail.com**  
-📍 **Casablanca, Maroc**  
-🔗 [linkedin.com/in/malakcharty](https://www.linkedin.com/in/malakcharty/)
+### 🤝 Contact
+**Email** : chartymalak1@gmail.com  
+**LinkedIn** : www.linkedin.com/in/malak-c-174619225
