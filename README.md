@@ -6,7 +6,7 @@
 <!-- Title & subtitle -->
 <h1 align="center">Salut, moi c’est <span style="color:#7e57c2">Malak Charty</span> 👋</h1>
 <p align="center">
-  🎓 Future Ingénieure en Informatique & Réseaux (MIAGE) • 💡 Dev Full-Stack & Automatisation (RPA) • 📍 Casablanca
+  🎓 Future Ingénieure en Informatique & Réseaux (MIAGE) • 📍 Casablanca
 </p>
 
 <!-- Social / contact -->
