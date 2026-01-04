@@ -12,7 +12,7 @@
 <!-- Social / contact -->
 <p align="center">
   <a href="mailto:chartymalak1@gmail.com"><img src="https://img.shields.io/badge/Email-chartymalak1%40gmail.com-7e57c2?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/malakcharty/"><img src="https://img.shields.io/badge/LinkedIn-malakcharty-673ab7?logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/malak-c-174619225"><img src="https://img.shields.io/badge/LinkedIn-malakcharty-673ab7?logo=linkedin&logoColor=white"></a>
 </p>
 ---
 
